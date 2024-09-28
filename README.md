@@ -56,6 +56,4 @@ SaTown SMS **Sadece Türkiye** numaralarını destekler.
 
 <div align="center">
   
-# ❤️ Projeyi desteklerseniz çok sevinirim
-
-</div>
+# ❤️ Projeyi desteklerseniz çok sevinirim ❤️
