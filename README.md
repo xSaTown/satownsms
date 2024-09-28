@@ -1,7 +1,7 @@
 <div align="center">
 
-# [![satownsmsv1](https://github.com/user-attachments/assets/1e18bae2-369b-4c43-8de0-5af655fc8559)
-)]
+# ![satownsmsv1](https://github.com/user-attachments/assets/1e18bae2-369b-4c43-8de0-5af655fc8559)
+
 
 # SaTown SMS Bomber 💣
 
