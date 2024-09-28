@@ -11,11 +11,11 @@
 
 # 📌 Menü
 
-📌 [<kbd>TR</kbd>](#-en)
-- [<kbd>Kurulum</kbd>](#-installation)
-- [<kbd>SMS Hakkında</kbd>](#-sms-info)
+📌 [<kbd>Bilgi!</kbd>](#bilgi)
+- [<kbd>Kurulum</kbd>](#kurulum)
+- [<kbd>SMS Hakkında</kbd>](#sms-hakkinda)
 
-# 📌 TR
+# 📌 Bilgi <a name="bilgi"></a>
 
 <div align="center">
   
@@ -24,7 +24,7 @@
 
 </div>
 
-# 📌 Kurulum
+# 📌 Kurulum <a name="kurulum"></a>
 
 ![ogretici](https://github.com/user-attachments/assets/fbd06cbd-0b9e-48be-accf-8ff2ac1c056b)
 
@@ -50,7 +50,7 @@
   python3 satownsms.py
   ```
 
-# 📌 SMS Hakkında
+# 📌 SMS Hakkında <a name="sms-hakkinda"></a>
 
 SaTown SMS **Sadece Türkiye** numaralarını destekler.
 
