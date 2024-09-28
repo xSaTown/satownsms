@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  ## **Kötüye kulllanırsanız siz sorumlu olursunuz!**
+  ## **Kötüye kullanırsanız siz sorumlu olursunuz!**
 ![image](https://github.com/user-attachments/assets/250920c9-4f4a-4f55-a72f-6ed37aa8c338)
 
 </div>
