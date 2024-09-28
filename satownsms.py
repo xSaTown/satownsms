@@ -24,7 +24,7 @@ while 1 :#line:15
     Sms: {}           {}by {}@xSaTown\n  
     """.format (Fore .LIGHTYELLOW_EX ,len (servisler_sms ),Style .RESET_ALL ,Fore .LIGHTCYAN_EX ))#line:28
     try :#line:29
-        menu =(input (Fore .LIGHTMAGENTA_EX +" 1- SMS Gönder (Normal)\n\n 2- SMS Gönder (Turbo)\n\n 3- Çıkış\n\n"+Fore .LIGHTRED_EX +" Seçim: "))#line:30
+        menu = input(Fore.LIGHTBLUE_EX + "1- SMS Gönder " + Fore.WHITE + "(Normal)\n\n" + Fore.LIGHTBLUE_EX + "2- SMS Gönder " + Fore.LIGHTYELLOW_EX + "(Turbo)\n\n" + Fore.LIGHTYELLOW_EX + "3- Çıkış\n\n" + Fore.LIGHTRED_EX + "Seçim: ")  # line:30
         if menu =="":#line:31
             continue #line:32
         menu =int (menu )#line:33
