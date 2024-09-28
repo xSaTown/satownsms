@@ -34,9 +34,8 @@
   ```
   https://github.com/xSaTown/satownsms
   ```
-
-- P.S
-  - Kullanabilmeniz için Python library lerini indirmeniz gerekmektedir, satownsms klasörüne gidin ve bu komudu cmd veya terminale yazın:  
+  
+- Kullanabilmeniz için Python library lerini indirmeniz gerekmektedir, satownsms klasörüne gidin ve bu komudu cmd veya terminale yazın:  
 
 
     ```
