@@ -26,7 +26,7 @@
 
 # 📌 Kurulum <a name="kurulum"></a>
 
-![ogretici](https://github.com/user-attachments/assets/fbd06cbd-0b9e-48be-accf-8ff2ac1c056b)
+![ogretici](https://github.com/user-attachments/assets/5e4c218d-2109-4009-96c9-989a28283411)
 
 - SaTown SMS'i çalıştırmak istiyorsanız önce Pythonu indirin: https://www.python.org
 
