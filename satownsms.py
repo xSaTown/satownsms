@@ -181,7 +181,7 @@ while 1:  # line:15
                                executor.submit(send_sms.KuryemGelsin), executor.submit(send_sms.Macro),
                                executor.submit(send_sms.Metro), executor.submit(send_sms.Migros),
                                executor.submit(send_sms.Naosstars), executor.submit(send_sms.Paybol),
-                               executor.submit(send_sms.Pidem), executor.submit(send_sms.Porthy),
+                               executor.submit(send_sms.Pidem), executor.submit(send_sms.Porty),
                                executor.submit(send_sms.Qumpara), executor.submit(send_sms.Starbucks),
                                executor.submit(send_sms.Suiste), executor.submit(send_sms.Taksim),
                                executor.submit(send_sms.Tasdelen), executor.submit(send_sms.Tasimacim),
